@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import instaloader
 
 profile_name = input ("Enter Instagram Profile Name: ")
